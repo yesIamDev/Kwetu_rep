@@ -1,0 +1,7 @@
+USER1
+
+{
+    "mail" : "david88@gmail.com",
+    "password" : "1234567"
+}
+
